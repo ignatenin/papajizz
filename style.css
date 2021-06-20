@@ -1,0 +1,27 @@
+body {
+	background: black;
+	color: white;
+}
+a {
+	color: blue;
+}
+
+.divelka {
+	text-align: center;
+	/*display: flex;*/
+	/*justify-content: center;*/
+	position: relative;
+}
+.buts {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.toy {
+	width: 50px;
+	height: auto;
+	position: absolute;
+}
+.tree {
+	position: absolute;
+}
